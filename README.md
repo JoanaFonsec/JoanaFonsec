@@ -1,8 +1,8 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> My name is Joana. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> My name is Joana. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="35" />  
 
 - 🏦 I'm a Ph.D. in Machine Learning and Robotics, currently looking for my next role
 - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30" />  I use daily: **.js**, **.java**, **.py**,  **.sql**
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I use daily: **.js**, **.java**, **.py**,  **.sql**
 - 📖 I am currently reading **The Lean Startup** by Eric Ries
 - 💬 Talk to me about ethics in AI, diversity in STEM, new tech & startups
 - 👯 We can connect to play some games of Chess ♟
