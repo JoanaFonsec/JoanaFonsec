@@ -1,11 +1,11 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> My name is Joana. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40" />  
 
 - 🏦 I'm a Machina Learning Engineer with Ph.D. in Machine Learning and Robotics, currently looking for my next role
-- 📝 I did my Ph.D. in Machine Learning and Robotics at KTH, under the surpervision of <a href="https://people.kth.se/~kallej/" target="_blank">Professor Karl H. Johansson</a>
+- 📝 I did my Ph.D. in Machine Learning and Robotics at KTH, at <a href="https://people.kth.se/~kallej/" target="_blank">Professor Karl H. Johansson</a> group
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I like to code on **Python**, **C++**, **MatLab**
 - 📖 I am currently reading **The Lean Startup** by Eric Ries
 - 💬 Talk to me about ethics in AI, diversity in STEM, new tech & startups
-- ⚡ Fun fact: I like plants 🌾🌳🪴🌴, yoga 🧘🏻‍♀️, cycling 🚴🏼‍♀️, painting 🎨🖌️🌿✨🎧, crochet 🧵˖ִ໋🧶✧🪡⋆
+- ⚡ I like plants 🌾🌳🪴🌴, yoga 🧘🏻‍♀️, cycling 🚴🏼‍♀️, painting 🎨🖌️🌿✨🎧, crochet 🧵˖ִ໋🧶✧🪡⋆
 - 🧑‍💻 Tech I am currently learning about : Object detection with YOLO algorithms and transformers
 
 ---
