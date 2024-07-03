@@ -20,8 +20,8 @@
 ---
 
 <div class="badges-githubstats">
-  <p align="center">\
-    <img src="https://leetcard.jacoblin.cool/joana_filipa_fonseca?ext=heatmap">
+  <p align="center">
+    <img src="https://leetcard.jacoblin.cool/joana_filipa_fonseca?ext=heatmap&theme=dark" height="165">
   </p>
 </div>
 
