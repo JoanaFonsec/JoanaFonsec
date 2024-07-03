@@ -12,6 +12,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanafonsec&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanafonsec&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" alt="aaronedev's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoanaFonsec&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" height="165">
+  </p>
+</div>
+
 ---
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Publications:
