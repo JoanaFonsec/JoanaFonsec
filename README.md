@@ -12,8 +12,8 @@
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanafonsec&layout=compact&card_width=250&text_color=daf7dc&bg_color=151515&hide=css,html,php" alt="aaronedev's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=JoanaFonsec&theme=dark&card_width=400" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanafonsec&layout=compact&card_width=220&text_color=daf7dc&bg_color=151515&hide=css,html,php" alt="aaronedev's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=JoanaFonsec&theme=dark&card_width=350" height="165">
     <img src="https://leetcard.jacoblin.cool/joana_filipa_fonseca?ext=heatmap&theme=dark" height="165">
   </p>
 </div>
