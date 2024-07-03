@@ -14,6 +14,7 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanafonsec&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" alt="aaronedev's Stats" height="165">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=JoanaFonsec&theme=dark&card_width=470" height="165">
+    <img src="https://leetcode.card.workers.dev/joana_filipa_fonseca?theme=dark&font=baloo&extension=null" height="165">
   </p>
 </div>
 
