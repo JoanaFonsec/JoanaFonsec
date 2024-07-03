@@ -1,8 +1,8 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> My name is Joana. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40" />  
 
-- 🏦 I'm a Machina Learning Engineer with Ph.D. in Machine Learning and Robotics, currently looking for my next role
-- 📝 I did my Ph.D. in Machine Learning and Robotics at KTH, at <a href="https://people.kth.se/~kallej/" target="_blank">Professor Karl H. Johansson</a> group
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I like to code on **Python**, **C++**, **MatLab**
+- 🏦 I'm a Machina Learning Engineer, currently looking for my next role
+- 📝 I did my Ph.D. in Machine Learning and Robotics at KTH, with <a href="https://people.kth.se/~kallej/" target="_blank">Professor Karl H. Johansson</a>
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I like to code on **Python**, **C++**, **MatLab**, **SQL**
 - 📖 I am currently reading **The Lean Startup** by Eric Ries
 - 💬 Talk to me about ethics in AI, diversity in STEM, new tech & startups
 - ⚡ I like plants 🌾🌳🪴🌴, yoga 🧘🏻‍♀️, cycling 🚴🏼‍♀️, painting 🎨🖌️🌿✨🎧, crochet 🧵˖ִ໋🧶✧🪡⋆
@@ -12,7 +12,7 @@
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanafonsec&layout=compact&card_width=220&text_color=daf7dc&bg_color=151515&hide=css,html,php" alt="aaronedev's Stats" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanafonsec&layout=compact&card_width=220&text_color=daf7dc&bg_color=151515&hide=css,html,php" height="165">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=JoanaFonsec&theme=dark&card_width=350" height="165">
     <img src="https://leetcard.jacoblin.cool/joana_filipa_fonseca?ext=heatmap&theme=dark&border=2&radius=10&show_rank=False" height="165">
   </p>
