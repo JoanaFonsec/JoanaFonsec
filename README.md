@@ -1,6 +1,6 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> My name is Joana. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40" />  
 
-- 🏦 I'm a Machina Learning Engineer, currently looking for my next role
+- 🏦 I'm a Machine Learning Engineer, currently looking for my next role
 - 📝 I did my Ph.D. in Machine Learning and Robotics at KTH, with <a href="https://people.kth.se/~kallej/" target="_blank">Professor Karl H. Johansson</a>
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I like to code on **Python**, **C++**, **MatLab**, **SQL**
 - 📖 I am currently reading **The Lean Startup** by Eric Ries
