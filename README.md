@@ -14,7 +14,7 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanafonsec&layout=compact&card_width=200&text_color=daf7dc&bg_color=151515&hide=css,html,php" height="165">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=JoanaFonsec&theme=dark&card_width=330" height="165">
-    <img src="https://leetcard.jacoblin.cool/joana_filipa_fonseca?ext=heatmap&theme=dark&border=2&radius=10&width=520&show_rank=False" height="165">
+    <img src="https://leetcard.jacoblin.cool/joana_fonseca?ext=heatmap&theme=dark&border=2&radius=10&width=520&show_rank=False" height="165">
   </p>
 </div>
 
